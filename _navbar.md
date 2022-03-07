@@ -1,4 +1,5 @@
 - [***哔哩哔哩***](https://www.bilibili.com/)
+
 - **脚本**
   - [**GreasyFork**](https://greasyfork.org/zh-CN/scripts?q=)
   - [**Tampermonkey**](https://www.tampermonkey.net/)
@@ -51,7 +52,9 @@
 - **创作生活**
 
   - [**微博**](https://weibo.com/)
+  - [**小红书**](https://www.xiaohongshu.com/)
   - [**今日头条**](https://www.toutiao.com/)
+  - [**西瓜视频**](https://www.ixigua.com/)
 
 - **划水**
 
@@ -60,7 +63,12 @@
 
 - **程序猿·广度**
 
+  - [**尚硅谷**](http://www.atguigu.com/)
+  - [**黑马程序员**](http://www.itheima.com/)
+
 - **焊武帝·深度**
+
+  - [**全国大学生电子设计竞赛培训网**](https://www.nuedc-training.com.cn/)
 
 - **友情链接**
 
